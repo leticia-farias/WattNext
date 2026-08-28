@@ -1,8 +1,5 @@
 # Watt Next? 
 
-> **Hackathon Sustentabilidade Tecnológica 2026**  
-> Desenvolvido pela equipe **Tech SaaS Hold'em**
-
 Aplicação Web em **Next.js (App Router)** com **TypeScript** e **Tailwind CSS** para cálculo tarifário em tempo real, auditoria residencial de consumo, simulador de payback/ROI e leitor óptico de etiquetas PBE/INMETRO via QR Code.
 
 
